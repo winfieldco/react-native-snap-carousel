@@ -1,6 +1,6 @@
 {
     "name": "react-native-snap-carousel",
-    "version": "3.4.0-post1",
+    "version": "3.4.0-post2",
     "description": "Swiper component for React Native with previews, snapping effect, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
     "main": "src/index.js",
     "repository": {
@@ -31,12 +31,7 @@
     "author": "Archriss <contact@archriss.com> (github.com/archriss)",
     "license": "ISC",
     "dependencies": {
-        "prop-types": "^15.5.10",
         "react-addons-shallow-compare": "15.6.0"
-    },
-    "peerDependencies": {
-        "react": ">=15.0.0",
-        "react-native": ">=0.43.0"
     },
     "devDependencies": {
         "babel-eslint": "^7.2.3",
